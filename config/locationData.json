@@ -1,0 +1,2116 @@
+[
+    {
+        "county": "Del Norte",
+        "lat": 41.869383569541917,
+        "long": -124.21444724840021,
+        "spot_id": 652,
+        "locName": "Smith River Kellog Road"
+    },
+    {
+        "county": "Del Norte",
+        "lat": 41.786844846578227,
+        "long": -124.25521494045159,
+        "spot_id": 653,
+        "locName": "Point St George"
+    },
+    {
+        "county": "Del Norte",
+        "lat": 41.76951799906643,
+        "long": -124.23922049300231,
+        "spot_id": 654,
+        "locName": "Garths Reef"
+    },
+    {
+        "county": "Del Norte",
+        "lat": 41.740161410941631,
+        "long": -124.1816271141612,
+        "spot_id": 655,
+        "locName": "Whaler Island"
+    },
+    {
+        "county": "Del Norte",
+        "lat": 41.737888961614509,
+        "long": -124.168107730491,
+        "spot_id": 656,
+        "locName": "South Beach"
+    },
+    {
+        "county": "Del Norte",
+        "lat": 41.708637529953478,
+        "long": -124.1455957740673,
+        "spot_id": 657,
+        "locName": "Enderts Beach"
+    },
+    {
+        "county": "Del Norte",
+        "lat": 41.60409233409618,
+        "long": -124.10230189239419,
+        "spot_id": 658,
+        "locName": "Wilson Creek"
+    },
+    {
+        "county": "Del Norte",
+        "lat": 41.54703458341988,
+        "long": -124.0857421824345,
+        "spot_id": 659,
+        "locName": "Klamath Rivermouth"
+    },
+    {
+        "county": "Humboldt",
+        "lat": 41.383903561731039,
+        "long": -124.0727754950131,
+        "spot_id": 660,
+        "locName": "Gold Bluffs Beach"
+    },
+    {
+        "county": "Humboldt",
+        "lat": 41.271494812805869,
+        "long": -124.0968267672407,
+        "spot_id": 661,
+        "locName": "Freshwater Lagoon"
+    },
+    {
+        "county": "Humboldt",
+        "lat": 41.13248951472039,
+        "long": -124.1623052534996,
+        "spot_id": 662,
+        "locName": "Patricks Point"
+    },
+    {
+        "county": "Humboldt",
+        "lat": 41.059905550287652,
+        "long": -124.1494131650617,
+        "spot_id": 663,
+        "locName": "Trinidad State Beach"
+    },
+    {
+        "county": "Humboldt",
+        "lat": 41.047927367619323,
+        "long": -124.1263838291088,
+        "spot_id": 664,
+        "locName": "Camel Rock"
+    },
+    {
+        "county": "Humboldt",
+        "lat": 41.040417847257139,
+        "long": -124.1212780701598,
+        "spot_id": 665,
+        "locName": "Moonstone"
+    },
+    {
+        "county": "Humboldt",
+        "lat": 41.029002951747778,
+        "long": -124.1170768809114,
+        "spot_id": 666,
+        "locName": "Little River State Beach"
+    },
+    {
+        "county": "Humboldt",
+        "lat": 40.965433361099542,
+        "long": -124.1282835019915,
+        "spot_id": 667,
+        "locName": "Mad River Beach"
+    },
+    {
+        "county": "Humboldt",
+        "lat": 40.799917542801651,
+        "long": -124.2085307445489,
+        "spot_id": 668,
+        "locName": "Samoa Peninsula"
+    },
+    {
+        "county": "Humboldt",
+        "lat": 40.773131567667328,
+        "long": -124.225849337131,
+        "spot_id": 669,
+        "locName": "Bunkers"
+    },
+    {
+        "county": "Humboldt",
+        "lat": 40.769135830200383,
+        "long": -124.23712250918381,
+        "spot_id": 670,
+        "locName": "North Jetty"
+    },
+    {
+        "county": "Humboldt",
+        "lat": 40.769063606061451,
+        "long": -124.24145480139541,
+        "spot_id": 671,
+        "locName": "Harbor Entrance"
+    },
+    {
+        "county": "Humboldt",
+        "lat": 40.764741274116084,
+        "long": -124.2457464202994,
+        "spot_id": 672,
+        "locName": "South Jetty"
+    },
+    {
+        "county": "Humboldt",
+        "lat": 40.600934539028657,
+        "long": -124.337076848425,
+        "spot_id": 673,
+        "locName": "Centerville Beach"
+    },
+    {
+        "county": "Humboldt",
+        "lat": 40.353331698111582,
+        "long": -124.36303982254771,
+        "spot_id": 674,
+        "locName": "Cape Mendocino"
+    },
+    {
+        "county": "Humboldt",
+        "lat": 40.024699034097907,
+        "long": -124.07575471643121,
+        "spot_id": 675,
+        "locName": "Deadmans"
+    },
+    {
+        "county": "Humboldt",
+        "lat": 40.02116732237296,
+        "long": -124.0720505571327,
+        "spot_id": 676,
+        "locName": "Third Reef"
+    },
+    {
+        "county": "Humboldt",
+        "lat": 40.021367730250077,
+        "long": -124.06628712314129,
+        "spot_id": 677,
+        "locName": "No Pass"
+    },
+    {
+        "county": "Mendocino",
+        "lat": 39.659122945040963,
+        "long": -123.78574189907459,
+        "spot_id": 678,
+        "locName": "DeHaven Creek"
+    },
+    {
+        "county": "Mendocino",
+        "lat": 39.610105444727303,
+        "long": -123.78465512153549,
+        "spot_id": 679,
+        "locName": "Chadbourne Gulch Blues Beach"
+    },
+    {
+        "county": "Mendocino",
+        "lat": 39.563482875368798,
+        "long": -123.77066821591499,
+        "spot_id": 680,
+        "locName": "Seaside Creek Beach"
+    },
+    {
+        "county": "Mendocino",
+        "lat": 39.49916844341007,
+        "long": -123.79137898085349,
+        "spot_id": 681,
+        "locName": "Ward Avenue"
+    },
+    {
+        "county": "Mendocino",
+        "lat": 39.472382421920109,
+        "long": -123.8064186546377,
+        "spot_id": 682,
+        "locName": "Virgin Creek"
+    },
+    {
+        "county": "Mendocino",
+        "lat": 39.361220244458742,
+        "long": -123.8175781480662,
+        "spot_id": 683,
+        "locName": "Caspar Creek"
+    },
+    {
+        "county": "Mendocino",
+        "lat": 39.301581560466019,
+        "long": -123.7979824378202,
+        "spot_id": 684,
+        "locName": "Big Rivermouth"
+    },
+    {
+        "county": "Mendocino",
+        "lat": 39.191108787550547,
+        "long": -123.7629601336068,
+        "spot_id": 685,
+        "locName": "Navarro Rivermouth"
+    },
+    {
+        "county": "Mendocino",
+        "lat": 39.004642924502292,
+        "long": -123.6967097723784,
+        "spot_id": 686,
+        "locName": "Manchester State Beach Alder Creek"
+    },
+    {
+        "county": "Mendocino",
+        "lat": 38.914514744926429,
+        "long": -123.7136648463088,
+        "spot_id": 687,
+        "locName": "Point Arena"
+    },
+    {
+        "county": "Mendocino",
+        "lat": 38.866308645376058,
+        "long": -123.6557633035471,
+        "spot_id": 688,
+        "locName": "Schooner Gulch Moat Creek"
+    },
+    {
+        "county": "Mendocino",
+        "lat": 38.768521836813278,
+        "long": -123.53389713441371,
+        "spot_id": 689,
+        "locName": "Gualala Rivermouth"
+    },
+    {
+        "county": "Sonoma",
+        "lat": 38.683140380050851,
+        "long": -123.4343167105767,
+        "spot_id": 105,
+        "locName": "Black Point Beach"
+    },
+    {
+        "county": "Sonoma",
+        "lat": 38.611796005797601,
+        "long": -123.3665369591898,
+        "spot_id": 690,
+        "locName": "Secrets"
+    },
+    {
+        "county": "Sonoma",
+        "lat": 38.532494143658752,
+        "long": -123.27462223517369,
+        "spot_id": 691,
+        "locName": "Timber Cove"
+    },
+    {
+        "county": "Sonoma",
+        "lat": 38.511325091448839,
+        "long": -123.2471903525999,
+        "spot_id": 692,
+        "locName": "The Fort"
+    },
+    {
+        "county": "Sonoma",
+        "lat": 38.510803349044131,
+        "long": -123.2445259424552,
+        "spot_id": 693,
+        "locName": "Mystos"
+    },
+    {
+        "county": "Sonoma",
+        "lat": 38.450860583363102,
+        "long": -123.1320928893431,
+        "spot_id": 106,
+        "locName": "Russian Rivermouth"
+    },
+    {
+        "county": "Sonoma",
+        "lat": 38.439593003199683,
+        "long": -123.1264469919029,
+        "spot_id": 694,
+        "locName": "Goat Rock"
+    },
+    {
+        "county": "Sonoma",
+        "lat": 38.351613979664528,
+        "long": -123.0701937939567,
+        "spot_id": 107,
+        "locName": "Salmon Creek"
+    },
+    {
+        "county": "Sonoma",
+        "lat": 38.310969847856839,
+        "long": -123.0428294861607,
+        "spot_id": 108,
+        "locName": "Doran Beach"
+    },
+    {
+        "county": "Marin",
+        "lat": 38.251736717249742,
+        "long": -122.97220607457641,
+        "spot_id": 109,
+        "locName": "Dillon Beach"
+    },
+    {
+        "county": "Marin",
+        "lat": 38.04876345362046,
+        "long": -122.98915492222579,
+        "spot_id": 695,
+        "locName": "Point Reyes Beach"
+    },
+    {
+        "county": "Marin",
+        "lat": 38.029200776639293,
+        "long": -122.94001528051361,
+        "spot_id": 696,
+        "locName": "Drakes Estero"
+    },
+    {
+        "county": "Marin",
+        "lat": 37.901189197748032,
+        "long": -122.68965344322839,
+        "spot_id": 592,
+        "locName": "The Patch"
+    },
+    {
+        "county": "Marin",
+        "lat": 37.903464512428833,
+        "long": -122.6815204402253,
+        "spot_id": 110,
+        "locName": "Bolinas"
+    },
+    {
+        "county": "Marin",
+        "lat": 37.893586518215649,
+        "long": -122.63914278799869,
+        "spot_id": 111,
+        "locName": "Stinson Beach"
+    },
+    {
+        "county": "Marin",
+        "lat": 37.831304879996942,
+        "long": -122.5397845322041,
+        "spot_id": 112,
+        "locName": "Fort Cronkhite"
+    },
+    {
+        "county": "San Francisco",
+        "lat": 37.808306000000002,
+        "long": -122.469909,
+        "spot_id": 800,
+        "locName": "Crissy Field"
+    },
+    {
+        "county": "San Francisco",
+        "lat": 37.811280863494602,
+        "long": -122.4762562938768,
+        "spot_id": 113,
+        "locName": "Fort Point"
+    },
+    {
+        "county": "San Francisco",
+        "lat": 37.78773976851884,
+        "long": -122.4928411936139,
+        "spot_id": 649,
+        "locName": "Eagles Point"
+    },
+    {
+        "county": "San Francisco",
+        "lat": 37.788031359486503,
+        "long": -122.49442903431751,
+        "spot_id": 648,
+        "locName": "Deadmans"
+    },
+    {
+        "county": "San Francisco",
+        "lat": 37.777486331151223,
+        "long": -122.51582571053331,
+        "spot_id": 697,
+        "locName": "Ocean Beach - Kellys Cove"
+    },
+    {
+        "county": "San Francisco",
+        "lat": 37.768256511796238,
+        "long": -122.51347658831379,
+        "spot_id": 114,
+        "locName": "Ocean Beach - VFW"
+    },
+    {
+        "county": "San Francisco",
+        "lat": 37.754622592301743,
+        "long": -122.5111052256233,
+        "spot_id": 117,
+        "locName": "Ocean Beach - Noriega"
+    },
+    {
+        "county": "San Francisco",
+        "lat": 37.734451,
+        "long": -122.508197,
+        "spot_id": 801,
+        "locName": "Ocean Beach - Sloat"
+    },
+    {
+        "county": "San Mateo",
+        "lat": 37.632472217207813,
+        "long": -122.4944959843629,
+        "spot_id": 619,
+        "locName": "Sharp Park"
+    },
+    {
+        "county": "San Mateo",
+        "lat": 37.609975328463896,
+        "long": -122.4986424829372,
+        "spot_id": 119,
+        "locName": "Rockaway Beach"
+    },
+    {
+        "county": "San Mateo",
+        "lat": 37.599078592064181,
+        "long": -122.5030853194715,
+        "spot_id": 120,
+        "locName": "Linda Mar"
+    },
+    {
+        "county": "San Mateo",
+        "lat": 37.594928606801332,
+        "long": -122.5203291514914,
+        "spot_id": 698,
+        "locName": "Pedro Point"
+    },
+    {
+        "county": "San Mateo",
+        "lat": 37.551609260139692,
+        "long": -122.51463970856121,
+        "spot_id": 121,
+        "locName": "Montara"
+    },
+    {
+        "county": "San Mateo",
+        "lat": 37.491656365488851,
+        "long": -122.5022524228539,
+        "spot_id": 122,
+        "locName": "Mavericks"
+    },
+    {
+        "county": "San Mateo",
+        "lat": 37.500694272357279,
+        "long": -122.4716653656277,
+        "spot_id": 123,
+        "locName": "Princeton Jetty"
+    },
+    {
+        "county": "San Mateo",
+        "lat": 37.480733872041142,
+        "long": -122.4530953542053,
+        "spot_id": 124,
+        "locName": "Half Moon Bay Beach"
+    },
+    {
+        "county": "San Mateo",
+        "lat": 37.322271167217153,
+        "long": -122.40691471407089,
+        "spot_id": 699,
+        "locName": "San Gregorio State Beach"
+    },
+    {
+        "county": "San Mateo",
+        "lat": 37.299344926694353,
+        "long": -122.41011858846799,
+        "spot_id": 126,
+        "locName": "Pomponio State Beach"
+    },
+    {
+        "county": "San Mateo",
+        "lat": 37.271525294531543,
+        "long": -122.4114038882407,
+        "spot_id": 127,
+        "locName": "Pescadero State Beach"
+    },
+    {
+        "county": "San Mateo",
+        "lat": 37.258566573071221,
+        "long": -122.4142561181521,
+        "spot_id": 700,
+        "locName": "Pescadero Cove"
+    },
+    {
+        "county": "San Mateo",
+        "lat": 37.16302509342735,
+        "long": -122.36313080017339,
+        "spot_id": 701,
+        "locName": "Gazos Creek"
+    },
+    {
+        "county": "San Mateo",
+        "lat": 37.151969802575991,
+        "long": -122.36170330391499,
+        "spot_id": 622,
+        "locName": "Franklin Point"
+    },
+    {
+        "county": "San Mateo",
+        "lat": 37.117632563782671,
+        "long": -122.3144829358251,
+        "spot_id": 118,
+        "locName": "Ano Nuevo"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 37.104375785824722,
+        "long": -122.28963099839569,
+        "spot_id": 593,
+        "locName": "County Line"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 37.096622267321628,
+        "long": -122.2808743245171,
+        "spot_id": 129,
+        "locName": "Waddell Creek"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 37.088357131800763,
+        "long": -122.27658575731741,
+        "spot_id": 600,
+        "locName": "Waddell Reefs"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 37.041670594978036,
+        "long": -122.2336727663274,
+        "spot_id": 128,
+        "locName": "Scotts Creek"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 37.028606411993842,
+        "long": -122.2255121067336,
+        "spot_id": 621,
+        "locName": "Rims Reef"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 37.021350150842792,
+        "long": -122.216233598759,
+        "spot_id": 133,
+        "locName": "Davenport Landing"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.980805449453257,
+        "long": -122.1553115289464,
+        "spot_id": 132,
+        "locName": "Laguna Creek"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.9631290582128,
+        "long": -122.12687891195959,
+        "spot_id": 131,
+        "locName": "Four Mile"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.961113618131151,
+        "long": -122.1185289127844,
+        "spot_id": 130,
+        "locName": "Three Mile"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.948803992794531,
+        "long": -122.0610985303145,
+        "spot_id": 6,
+        "locName": "Natural Bridges"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.948887053230102,
+        "long": -122.05100139931081,
+        "spot_id": 146,
+        "locName": "Stockton Avenue"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.949018942693577,
+        "long": -122.04764407412939,
+        "spot_id": 145,
+        "locName": "Swift Street"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.949715317410572,
+        "long": -122.04545520950489,
+        "spot_id": 10,
+        "locName": "Getchell"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.951489416605668,
+        "long": -122.04201384838009,
+        "spot_id": 144,
+        "locName": "Mitchells Cove"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.951092291956222,
+        "long": -122.02596109602921,
+        "spot_id": 2,
+        "locName": "Steamer Lane"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.958080811438322,
+        "long": -122.024563155438,
+        "spot_id": 3,
+        "locName": "Cowells"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.962653438309943,
+        "long": -122.01255524480131,
+        "spot_id": 143,
+        "locName": "The Rivermouth"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.96046244886972,
+        "long": -122.0016539066977,
+        "spot_id": 142,
+        "locName": "Santa Cruz Harbor"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.961680863576589,
+        "long": -122.00096385538831,
+        "spot_id": 141,
+        "locName": "Murph Bar"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.958677105425167,
+        "long": -121.9933217873383,
+        "spot_id": 9,
+        "locName": "Blacks"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.959561356399419,
+        "long": -121.9900357372874,
+        "spot_id": 140,
+        "locName": "Sunny Cove"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.959611886691043,
+        "long": -121.9888602809464,
+        "spot_id": 8,
+        "locName": "Santa Marias"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.956752467719276,
+        "long": -121.981436679289,
+        "spot_id": 7,
+        "locName": "26th Avenue"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.953639733773912,
+        "long": -121.9771177941946,
+        "spot_id": 138,
+        "locName": "Little Windansea"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.953755036918857,
+        "long": -121.97476703156769,
+        "spot_id": 137,
+        "locName": "Rockview"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.953224926158377,
+        "long": -121.9728250343757,
+        "spot_id": 5,
+        "locName": "Sewer Peak"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.954087622045307,
+        "long": -121.9716900628907,
+        "spot_id": 1,
+        "locName": "Pleasure Point"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.957393750256152,
+        "long": -121.9690033240836,
+        "spot_id": 4,
+        "locName": "38th Avenue"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.959111120639548,
+        "long": -121.96521161820959,
+        "spot_id": 147,
+        "locName": "The Hook"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.960773208239367,
+        "long": -121.9625490088431,
+        "spot_id": 148,
+        "locName": "Sharks Cove"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.971234705732812,
+        "long": -121.9491667605599,
+        "spot_id": 149,
+        "locName": "Capitola Jetties"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.931200193212533,
+        "long": -121.86414993502009,
+        "spot_id": 150,
+        "locName": "Manresa"
+    },
+    {
+        "county": "Santa Cruz",
+        "lat": 36.895671033997743,
+        "long": -121.8404648962798,
+        "spot_id": 136,
+        "locName": "Sunset Beach"
+    },
+    {
+        "county": "Monterey",
+        "lat": 36.835723114747182,
+        "long": -121.8034703105583,
+        "spot_id": 702,
+        "locName": "Zmudowski State Beach"
+    },
+    {
+        "county": "Monterey",
+        "lat": 36.809992064524373,
+        "long": -121.79079836167659,
+        "spot_id": 161,
+        "locName": "Moss Landing State Beach"
+    },
+    {
+        "county": "Monterey",
+        "lat": 36.776167657177453,
+        "long": -121.7983225119755,
+        "spot_id": 703,
+        "locName": "Salinas River State Beach"
+    },
+    {
+        "county": "Monterey",
+        "lat": 36.689972328404977,
+        "long": -121.8141846065641,
+        "spot_id": 160,
+        "locName": "Marina State Beach"
+    },
+    {
+        "county": "Monterey",
+        "lat": 36.607335986742832,
+        "long": -121.86904016115849,
+        "spot_id": 159,
+        "locName": "Del Monte Beach"
+    },
+    {
+        "county": "Monterey",
+        "lat": 36.626053898528653,
+        "long": -121.9148594651332,
+        "spot_id": 158,
+        "locName": "Lovers Point"
+    },
+    {
+        "county": "Monterey",
+        "lat": 36.620050059537668,
+        "long": -121.943455356667,
+        "spot_id": 156,
+        "locName": "Asilomar State Beach"
+    },
+    {
+        "county": "Monterey",
+        "lat": 36.548561553112371,
+        "long": -121.9298336429776,
+        "spot_id": 154,
+        "locName": "Carmel Beach"
+    },
+    {
+        "county": "Monterey",
+        "lat": 36.279279291978213,
+        "long": -121.8591275249395,
+        "spot_id": 153,
+        "locName": "Andrew Molera"
+    },
+    {
+        "county": "Monterey",
+        "lat": 35.923526450984802,
+        "long": -121.4699661759945,
+        "spot_id": 152,
+        "locName": "Sand Dollar"
+    },
+    {
+        "county": "Monterey",
+        "lat": 35.909633910950603,
+        "long": -121.4680190664497,
+        "spot_id": 151,
+        "locName": "Willow Creek"
+    },
+    {
+        "county": "San Luis Obispo",
+        "lat": 35.765674137535832,
+        "long": -121.32606704534,
+        "spot_id": 167,
+        "locName": "San Carpoforo Creek"
+    },
+    {
+        "county": "San Luis Obispo",
+        "lat": 35.672300697395407,
+        "long": -121.28583201981451,
+        "spot_id": 704,
+        "locName": "Lighthouse"
+    },
+    {
+        "county": "San Luis Obispo",
+        "lat": 35.650678096392923,
+        "long": -121.2196910142155,
+        "spot_id": 705,
+        "locName": "Arroyo Laguna"
+    },
+    {
+        "county": "San Luis Obispo",
+        "lat": 35.615571499825244,
+        "long": -121.1507812975773,
+        "spot_id": 642,
+        "locName": "Pico Creek"
+    },
+    {
+        "county": "San Luis Obispo",
+        "lat": 35.597464545767053,
+        "long": -121.1300263321841,
+        "spot_id": 166,
+        "locName": "San Simeon Creek"
+    },
+    {
+        "county": "San Luis Obispo",
+        "lat": 35.581517239681453,
+        "long": -121.1207944426381,
+        "spot_id": 706,
+        "locName": "Exotics"
+    },
+    {
+        "county": "San Luis Obispo",
+        "lat": 35.572934450004198,
+        "long": -121.1137941613911,
+        "spot_id": 707,
+        "locName": "Leffingwell Landing"
+    },
+    {
+        "county": "San Luis Obispo",
+        "lat": 35.567576848111322,
+        "long": -121.111257786495,
+        "spot_id": 165,
+        "locName": "Moonstone"
+    },
+    {
+        "county": "San Luis Obispo",
+        "lat": 35.447570836501349,
+        "long": -120.90655052180379,
+        "spot_id": 164,
+        "locName": "Cayucos Pier"
+    },
+    {
+        "county": "San Luis Obispo",
+        "lat": 35.425430657599541,
+        "long": -120.8823626922527,
+        "spot_id": 599,
+        "locName": "Studio Drive"
+    },
+    {
+        "county": "San Luis Obispo",
+        "lat": 35.373385291420519,
+        "long": -120.86711423755411,
+        "spot_id": 163,
+        "locName": "Morro Rock"
+    },
+    {
+        "county": "San Luis Obispo",
+        "lat": 35.289212478361087,
+        "long": -120.8838719410017,
+        "spot_id": 708,
+        "locName": "Hazard Canyon"
+    },
+    {
+        "county": "San Luis Obispo",
+        "lat": 35.275083536146063,
+        "long": -120.8897331242529,
+        "spot_id": 709,
+        "locName": "Spooners Cove"
+    },
+    {
+        "county": "San Luis Obispo",
+        "lat": 35.174637966272059,
+        "long": -120.7157583455736,
+        "spot_id": 710,
+        "locName": "Saint Annes"
+    },
+    {
+        "county": "San Luis Obispo",
+        "lat": 35.138186284704403,
+        "long": -120.6449984438748,
+        "spot_id": 162,
+        "locName": "Pismo Beach Pier"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.971624742799548,
+        "long": -120.6513811469147,
+        "spot_id": 711,
+        "locName": "Santa Maria Rivermouth"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.682913990211837,
+        "long": -120.6064779656859,
+        "spot_id": 712,
+        "locName": "Surf Beach"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.510184254989632,
+        "long": -120.50290531720481,
+        "spot_id": 185,
+        "locName": "Jalama"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.463609035485,
+        "long": -120.10097747039001,
+        "spot_id": 713,
+        "locName": "Tajiguas"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.460727859027109,
+        "long": -120.07331365850411,
+        "spot_id": 620,
+        "locName": "Refugio"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.461211965906138,
+        "long": -120.0549701700031,
+        "spot_id": 714,
+        "locName": "Beavers"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.456573520251069,
+        "long": -120.02120703731789,
+        "spot_id": 183,
+        "locName": "El Capitan"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.409079140926913,
+        "long": -119.8821432693011,
+        "spot_id": 182,
+        "locName": "Sands"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.4060390017938,
+        "long": -119.8777636727983,
+        "spot_id": 181,
+        "locName": "Devereux"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.408924676872353,
+        "long": -119.8587366027393,
+        "spot_id": 715,
+        "locName": "Pescaderos"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.404504693802032,
+        "long": -119.84573888459521,
+        "spot_id": 180,
+        "locName": "Depressions"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.40487888923785,
+        "long": -119.8425963704844,
+        "spot_id": 179,
+        "locName": "Campus Point"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.406860199420578,
+        "long": -119.841586187545,
+        "spot_id": 178,
+        "locName": "Poles"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.402321628741241,
+        "long": -119.74410228721349,
+        "spot_id": 641,
+        "locName": "The Pit"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.397968880785839,
+        "long": -119.7020898699724,
+        "spot_id": 177,
+        "locName": "Leadbetter"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.406077738542002,
+        "long": -119.6881734281268,
+        "spot_id": 176,
+        "locName": "Sandspit"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.415425257457379,
+        "long": -119.6372312179363,
+        "spot_id": 174,
+        "locName": "Hammonds"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.417933492445883,
+        "long": -119.6319848243787,
+        "spot_id": 173,
+        "locName": "Miramar"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.408484506574162,
+        "long": -119.55260262820261,
+        "spot_id": 171,
+        "locName": "Santa Claus Lane"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.393125120162942,
+        "long": -119.5255324487533,
+        "spot_id": 169,
+        "locName": "Carpinteria Beach"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.387182436140222,
+        "long": -119.5142470711864,
+        "spot_id": 168,
+        "locName": "Tar Pits"
+    },
+    {
+        "county": "Santa Barbara",
+        "lat": 34.37256542974805,
+        "long": -119.4779929046033,
+        "spot_id": 198,
+        "locName": "Rincon"
+    },
+    {
+        "county": "Ventura",
+        "lat": 34.373105769106772,
+        "long": -119.4599428547951,
+        "spot_id": 197,
+        "locName": "La Conchita"
+    },
+    {
+        "county": "Ventura",
+        "lat": 34.355125178290763,
+        "long": -119.4424173124075,
+        "spot_id": 196,
+        "locName": "Little Rincon"
+    },
+    {
+        "county": "Ventura",
+        "lat": 34.337084405699727,
+        "long": -119.4117541976936,
+        "spot_id": 195,
+        "locName": "Hobsons"
+    },
+    {
+        "county": "Ventura",
+        "lat": 34.328730025973243,
+        "long": -119.39949463872949,
+        "spot_id": 194,
+        "locName": "Faria"
+    },
+    {
+        "county": "Ventura",
+        "lat": 34.317764934488778,
+        "long": -119.3898560875502,
+        "spot_id": 640,
+        "locName": "Pitas"
+    },
+    {
+        "county": "Ventura",
+        "lat": 34.319176709938617,
+        "long": -119.3773753582565,
+        "spot_id": 193,
+        "locName": "Mondos"
+    },
+    {
+        "county": "Ventura",
+        "lat": 34.309297751638887,
+        "long": -119.3601154315883,
+        "spot_id": 192,
+        "locName": "Solimar"
+    },
+    {
+        "county": "Ventura",
+        "lat": 34.292337487494912,
+        "long": -119.3398784210307,
+        "spot_id": 191,
+        "locName": "Emma Wood"
+    },
+    {
+        "county": "Ventura",
+        "lat": 34.290704318554482,
+        "long": -119.3391521452549,
+        "spot_id": 639,
+        "locName": "Ventura Overhead"
+    },
+    {
+        "county": "Ventura",
+        "lat": 34.273069869304877,
+        "long": -119.3001508388765,
+        "spot_id": 190,
+        "locName": "C Street"
+    },
+    {
+        "county": "Ventura",
+        "lat": 34.267356477725677,
+        "long": -119.2797171405323,
+        "spot_id": 716,
+        "locName": "San Buenaventura State Beach"
+    },
+    {
+        "county": "Ventura",
+        "lat": 34.244061088369179,
+        "long": -119.2691704464693,
+        "spot_id": 189,
+        "locName": "South Jetty"
+    },
+    {
+        "county": "Ventura",
+        "lat": 34.229515776878749,
+        "long": -119.2663057962956,
+        "spot_id": 188,
+        "locName": "Santa Clara Rivermouth"
+    },
+    {
+        "county": "Ventura",
+        "lat": 34.212368850400047,
+        "long": -119.257734704306,
+        "spot_id": 187,
+        "locName": "McGrath State Beach"
+    },
+    {
+        "county": "Ventura",
+        "lat": 34.155573518159223,
+        "long": -119.2242236779785,
+        "spot_id": 717,
+        "locName": "Silver Strand"
+    },
+    {
+        "county": "Ventura",
+        "lat": 34.141570447971461,
+        "long": -119.1966011225911,
+        "spot_id": 718,
+        "locName": "Port Hueneme Beach Park"
+    },
+    {
+        "county": "Ventura",
+        "lat": 34.135666385258922,
+        "long": -119.1852079616088,
+        "spot_id": 719,
+        "locName": "Ormand Beach"
+    },
+    {
+        "county": "Ventura",
+        "lat": 34.095154777987787,
+        "long": -119.1072715825548,
+        "spot_id": 186,
+        "locName": "Point Mugu"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 34.052060672477893,
+        "long": -118.96402550031939,
+        "spot_id": 207,
+        "locName": "County Line"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 34.04349045348215,
+        "long": -118.9343235963207,
+        "spot_id": 638,
+        "locName": "Leo Carrillo"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 34.042851105515069,
+        "long": -118.9168999329918,
+        "spot_id": 720,
+        "locName": "Zero"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 34.034331744103383,
+        "long": -118.8611824726196,
+        "spot_id": 721,
+        "locName": "Trancas Point"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 34.019025974554282,
+        "long": -118.8303773801784,
+        "spot_id": 206,
+        "locName": "Zuma Beach"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 34.001113360439248,
+        "long": -118.8083780106363,
+        "spot_id": 637,
+        "locName": "Point Dume"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 34.025944333658138,
+        "long": -118.7555735304975,
+        "spot_id": 636,
+        "locName": "Latigo Canyon"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 34.033021829795622,
+        "long": -118.6778152767141,
+        "spot_id": 205,
+        "locName": "Malibu"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 34.036286783271777,
+        "long": -118.6087015348736,
+        "spot_id": 722,
+        "locName": "Big Rock"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 34.037219387423988,
+        "long": -118.58321372756581,
+        "spot_id": 388,
+        "locName": "Topanga"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 34.039364129388517,
+        "long": -118.5756079633999,
+        "spot_id": 635,
+        "locName": "Chart House"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 34.037094714688358,
+        "long": -118.5551262771518,
+        "spot_id": 387,
+        "locName": "Sunset"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 34.038467111166078,
+        "long": -118.5464991955614,
+        "spot_id": 723,
+        "locName": "Santa Monica Jetties"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 34.007649710401743,
+        "long": -118.49865223867501,
+        "spot_id": 724,
+        "locName": "Santa Monica Municipal Pier"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 34.004071587141219,
+        "long": -118.4940809896584,
+        "spot_id": 725,
+        "locName": "Bay Street"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.993205543051353,
+        "long": -118.4834347611491,
+        "spot_id": 726,
+        "locName": "Rose Avenue"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.983161270783711,
+        "long": -118.4742634651619,
+        "spot_id": 204,
+        "locName": "Venice"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.96038710258032,
+        "long": -118.4562189432081,
+        "spot_id": 727,
+        "locName": "Toes Overs"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.959915627216759,
+        "long": -118.455056395013,
+        "spot_id": 728,
+        "locName": "Ballona Creek"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.940100797751739,
+        "long": -118.4434464988428,
+        "spot_id": 729,
+        "locName": "D and W"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.916274762491447,
+        "long": -118.43049885734889,
+        "spot_id": 730,
+        "locName": "New Jetty"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.899742704342621,
+        "long": -118.4220839567824,
+        "spot_id": 402,
+        "locName": "El Porto"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.883866437432573,
+        "long": -118.4138307775285,
+        "spot_id": 203,
+        "locName": "Manhattan Beach"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.861606529115143,
+        "long": -118.4034127774129,
+        "spot_id": 202,
+        "locName": "Hermosa"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.849178914537568,
+        "long": -118.4019851018966,
+        "spot_id": 201,
+        "locName": "Redondo Breakwater"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.835486261162451,
+        "long": -118.3910878485312,
+        "spot_id": 731,
+        "locName": "Sapphire Street"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.832008736896341,
+        "long": -118.3919152431706,
+        "spot_id": 732,
+        "locName": "Topaz Street"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.811112395435423,
+        "long": -118.39290949975,
+        "spot_id": 200,
+        "locName": "Torrance Beach"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.803073124722196,
+        "long": -118.3970201453732,
+        "spot_id": 733,
+        "locName": "Rat Shit"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.800977730032443,
+        "long": -118.4034431936948,
+        "spot_id": 396,
+        "locName": "Haggertys"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.7928292845627,
+        "long": -118.40782214075951,
+        "spot_id": 633,
+        "locName": "Palos Verdes Cove"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.78405444195085,
+        "long": -118.4220548564988,
+        "spot_id": 734,
+        "locName": "Indicator"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.772001578067403,
+        "long": -118.42741088230279,
+        "spot_id": 199,
+        "locName": "Lunada Bay"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.737696492142867,
+        "long": -118.3768878104818,
+        "spot_id": 735,
+        "locName": "Abalone Cove Beach"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.719741000356969,
+        "long": -118.3278500000078,
+        "spot_id": 736,
+        "locName": "Royal Palms State Beach"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.708011828972992,
+        "long": -118.2839499848816,
+        "spot_id": 632,
+        "locName": "Cabrillo Beach"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.746916080101968,
+        "long": -118.12248409036179,
+        "spot_id": 737,
+        "locName": "64th Place"
+    },
+    {
+        "county": "Los Angeles",
+        "lat": 33.744300073418728,
+        "long": -118.11815529853089,
+        "spot_id": 738,
+        "locName": "72nd Place"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.739561600188857,
+        "long": -118.1157733298928,
+        "spot_id": 739,
+        "locName": "San Gabriel Rivermouth"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.738954950764047,
+        "long": -118.1106520764267,
+        "spot_id": 740,
+        "locName": "7th Street"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.737719028593382,
+        "long": -118.1078747535007,
+        "spot_id": 222,
+        "locName": "Seal Beach Pier"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.736828338244777,
+        "long": -118.1033218199791,
+        "spot_id": 601,
+        "locName": "13th Street"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.736022551349038,
+        "long": -118.1015971818255,
+        "spot_id": 741,
+        "locName": "Dolphin Avenue"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.728485804642823,
+        "long": -118.0908085660303,
+        "spot_id": 602,
+        "locName": "Surfside Jetty"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.72315771853458,
+        "long": -118.0802261736895,
+        "spot_id": 603,
+        "locName": "Anderson St"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.685392159304449,
+        "long": -118.0403658241339,
+        "spot_id": 604,
+        "locName": "Bolsa Chica"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.666156205815213,
+        "long": -118.01901000164,
+        "spot_id": 220,
+        "locName": "Goldenwest"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.663945281265853,
+        "long": -118.0140490339561,
+        "spot_id": 605,
+        "locName": "17th Street"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.655213981592752,
+        "long": -118.0050433408805,
+        "spot_id": 221,
+        "locName": "Huntington Pier"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.648516554087408,
+        "long": -117.9932214212635,
+        "spot_id": 643,
+        "locName": "Huntington Beach"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.628066527641927,
+        "long": -117.9591291105893,
+        "spot_id": 606,
+        "locName": "Santa Ana River Jetties"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.62290558073348,
+        "long": -117.9487673760861,
+        "spot_id": 219,
+        "locName": "56th Street"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.617227592487389,
+        "long": -117.93881142211259,
+        "spot_id": 607,
+        "locName": "40th Street"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.615319034584573,
+        "long": -117.9369576533262,
+        "spot_id": 608,
+        "locName": "36th Street"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.610958311825421,
+        "long": -117.933626701894,
+        "spot_id": 651,
+        "locName": "Blackies"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.606646920042472,
+        "long": -117.9307384511544,
+        "spot_id": 609,
+        "locName": "Newport Pier"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.604626708882137,
+        "long": -117.9253477173645,
+        "spot_id": 218,
+        "locName": "Newport Point"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.593389938669887,
+        "long": -117.88234297040751,
+        "spot_id": 217,
+        "locName": "The Wedge"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.592072633019903,
+        "long": -117.8770239986105,
+        "spot_id": 216,
+        "locName": "Corona Del Mar"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.55930284211604,
+        "long": -117.82170837923189,
+        "spot_id": 742,
+        "locName": "Morro Beach"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.542021998614132,
+        "long": -117.7915999692588,
+        "spot_id": 610,
+        "locName": "Rockpile"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.535266300181462,
+        "long": -117.77989898682,
+        "spot_id": 611,
+        "locName": "Thalia"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.532323337961067,
+        "long": -117.7779907890295,
+        "spot_id": 215,
+        "locName": "Brooks Street"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.528023341803227,
+        "long": -117.77251028236979,
+        "spot_id": 743,
+        "locName": "Agate"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.474665045147823,
+        "long": -117.7233023880989,
+        "spot_id": 214,
+        "locName": "Salt Creek"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.460330858205381,
+        "long": -117.6886485710755,
+        "spot_id": 213,
+        "locName": "Doheny"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.452059703795612,
+        "long": -117.6644023745431,
+        "spot_id": 744,
+        "locName": "Poche"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.42713486226824,
+        "long": -117.6289762885628,
+        "spot_id": 745,
+        "locName": "204s"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.419731942886493,
+        "long": -117.6212676741133,
+        "spot_id": 212,
+        "locName": "San Clemente Pier"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.415965582403473,
+        "long": -117.618142936175,
+        "spot_id": 211,
+        "locName": "T Street"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.41064330626746,
+        "long": -117.6130013911603,
+        "spot_id": 391,
+        "locName": "Lasuen"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.406983705725018,
+        "long": -117.6096503058218,
+        "spot_id": 644,
+        "locName": "Riviera"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.40480836264544,
+        "long": -117.6073102678367,
+        "spot_id": 645,
+        "locName": "Calafia"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.402979968143072,
+        "long": -117.6061996160215,
+        "spot_id": 392,
+        "locName": "State Beach"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.395975349097611,
+        "long": -117.6008792819534,
+        "spot_id": 210,
+        "locName": "North Gate"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.390612992576763,
+        "long": -117.5987721491924,
+        "spot_id": 209,
+        "locName": "Cottons Point"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.384476301377603,
+        "long": -117.59445112402619,
+        "spot_id": 623,
+        "locName": "Upper Trestles"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.382116955073258,
+        "long": -117.5888397460814,
+        "spot_id": 208,
+        "locName": "Lower Trestles"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.380114554751792,
+        "long": -117.5790343398904,
+        "spot_id": 625,
+        "locName": "Church"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.373605466203927,
+        "long": -117.56912919937839,
+        "spot_id": 239,
+        "locName": "San Onofre"
+    },
+    {
+        "county": "Orange County",
+        "lat": 33.361706508624472,
+        "long": -117.54497755140871,
+        "spot_id": 614,
+        "locName": "Trails"
+    },
+    {
+        "county": "San Diego",
+        "lat": 33.204228527589997,
+        "long": -117.3959770213895,
+        "spot_id": 238,
+        "locName": "Oceanside Harbor"
+    },
+    {
+        "county": "San Diego",
+        "lat": 33.193387046160893,
+        "long": -117.3871878580306,
+        "spot_id": 594,
+        "locName": "Oceanside Pier"
+    },
+    {
+        "county": "San Diego",
+        "lat": 33.185604979845287,
+        "long": -117.37826775153999,
+        "spot_id": 628,
+        "locName": "Wisconsin"
+    },
+    {
+        "county": "San Diego",
+        "lat": 33.172714179709601,
+        "long": -117.3666572301789,
+        "spot_id": 629,
+        "locName": "Cassidy"
+    },
+    {
+        "county": "San Diego",
+        "lat": 33.147320395176962,
+        "long": -117.3467966641187,
+        "spot_id": 237,
+        "locName": "Tamarack"
+    },
+    {
+        "county": "San Diego",
+        "lat": 33.144007137983102,
+        "long": -117.34458492328601,
+        "spot_id": 596,
+        "locName": "Warm Water Jetty"
+    },
+    {
+        "county": "San Diego",
+        "lat": 33.128762503805198,
+        "long": -117.3361948822189,
+        "spot_id": 597,
+        "locName": "Terra Mar"
+    },
+    {
+        "county": "San Diego",
+        "lat": 33.100777258565493,
+        "long": -117.31998606173561,
+        "spot_id": 630,
+        "locName": "Campground"
+    },
+    {
+        "county": "San Diego",
+        "lat": 33.087034665281351,
+        "long": -117.314238172042,
+        "spot_id": 236,
+        "locName": "Ponto"
+    },
+    {
+        "county": "San Diego",
+        "lat": 33.075484467395668,
+        "long": -117.310721142163,
+        "spot_id": 400,
+        "locName": "Grandview"
+    },
+    {
+        "county": "San Diego",
+        "lat": 33.063570212034683,
+        "long": -117.30555007900939,
+        "spot_id": 235,
+        "locName": "Beacons"
+    },
+    {
+        "county": "San Diego",
+        "lat": 33.055793796931212,
+        "long": -117.3021096501646,
+        "spot_id": 746,
+        "locName": "Stone Steps"
+    },
+    {
+        "county": "San Diego",
+        "lat": 33.047723148825199,
+        "long": -117.29924606780349,
+        "spot_id": 747,
+        "locName": "Moonlight Beach"
+    },
+    {
+        "county": "San Diego",
+        "lat": 33.045442274103927,
+        "long": -117.2982038691907,
+        "spot_id": 401,
+        "locName": "D Street"
+    },
+    {
+        "county": "San Diego",
+        "lat": 33.034422931013466,
+        "long": -117.2957502535422,
+        "spot_id": 234,
+        "locName": "Swamis"
+    },
+    {
+        "county": "San Diego",
+        "lat": 33.025606777146429,
+        "long": -117.28801695845659,
+        "spot_id": 233,
+        "locName": "Pipes"
+    },
+    {
+        "county": "San Diego",
+        "lat": 33.01541991675105,
+        "long": -117.283273919829,
+        "spot_id": 232,
+        "locName": "Cardiff Reef"
+    },
+    {
+        "county": "San Diego",
+        "lat": 33.010943016398627,
+        "long": -117.28066578827971,
+        "spot_id": 748,
+        "locName": "Sandbox"
+    },
+    {
+        "county": "San Diego",
+        "lat": 33.006033281377711,
+        "long": -117.2793974249951,
+        "spot_id": 749,
+        "locName": "Georges"
+    },
+    {
+        "county": "San Diego",
+        "lat": 33.000337029888158,
+        "long": -117.27964200741241,
+        "spot_id": 231,
+        "locName": "Seaside Reef"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.991099047381603,
+        "long": -117.2755301434951,
+        "spot_id": 750,
+        "locName": "Pillbox"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.974798048741476,
+        "long": -117.2721052291127,
+        "spot_id": 751,
+        "locName": "Del Mar Rivermouth"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.966781159346787,
+        "long": -117.2699920318156,
+        "spot_id": 752,
+        "locName": "Del Mar Beach"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.958662325867159,
+        "long": -117.2691753574579,
+        "spot_id": 230,
+        "locName": "15th Street - Del Mar"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.948736697496393,
+        "long": -117.2654975329353,
+        "spot_id": 753,
+        "locName": "South Del Mar"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.93310208353217,
+        "long": -117.2617407404518,
+        "spot_id": 754,
+        "locName": "Torrey Pines State Beach"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.888727761985209,
+        "long": -117.25747793279859,
+        "spot_id": 229,
+        "locName": "Blacks Beach"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.866598509332697,
+        "long": -117.2562736520856,
+        "spot_id": 228,
+        "locName": "Scripps Pier"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.851467518056133,
+        "long": -117.2730818429806,
+        "spot_id": 755,
+        "locName": "La Jolla Cove"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.838792921912457,
+        "long": -117.2825528890551,
+        "spot_id": 756,
+        "locName": "Horseshoe"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.834006692827117,
+        "long": -117.2824956602703,
+        "spot_id": 757,
+        "locName": "Little Point"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.83218522519806,
+        "long": -117.2827774679985,
+        "spot_id": 758,
+        "locName": "Simmons Reef"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.829665321372083,
+        "long": -117.28204353957889,
+        "spot_id": 227,
+        "locName": "Windansea"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.823905600387683,
+        "long": -117.2810405686735,
+        "spot_id": 759,
+        "locName": "Big Rock"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.813424049908512,
+        "long": -117.2738442945035,
+        "spot_id": 398,
+        "locName": "Bird Rock"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.811747036661792,
+        "long": -117.27045519086261,
+        "spot_id": 760,
+        "locName": "Rockpile"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.806945917515272,
+        "long": -117.2659989723968,
+        "spot_id": 399,
+        "locName": "Tourmaline"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.797029505435518,
+        "long": -117.25960295034579,
+        "spot_id": 226,
+        "locName": "Pacific Beach"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.777929007486037,
+        "long": -117.2543264821912,
+        "spot_id": 397,
+        "locName": "Mission Beach"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.759603143300758,
+        "long": -117.2552831042027,
+        "spot_id": 761,
+        "locName": "Dog Beach"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.755322204792151,
+        "long": -117.2556990676614,
+        "spot_id": 762,
+        "locName": "Ocean Beach Jetty"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.749151851964093,
+        "long": -117.25534188491091,
+        "spot_id": 225,
+        "locName": "Ocean Beach Pier"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.718998904718177,
+        "long": -117.2571632713268,
+        "spot_id": 224,
+        "locName": "Sunset Cliffs"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.682462400293787,
+        "long": -117.1855218469544,
+        "spot_id": 598,
+        "locName": "Coronado"
+    },
+    {
+        "county": "San Diego",
+        "lat": 32.577928810608,
+        "long": -117.1346007967761,
+        "spot_id": 223,
+        "locName": "Imperial Beach"
+    }
+]
